@@ -3,7 +3,7 @@ import React, { useEffect } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 
 
-import HeroSection from '../components/HeroSection'; 
+import HeroSection from '../components/herosection'; 
 import FoodCategories from '../components/foodcategory';
 import SearchCard from '../components/searchcard'; 
 import Footer from '../components/Footer';
