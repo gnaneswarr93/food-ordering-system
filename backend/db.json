@@ -1,0 +1,36 @@
+{
+  "menu_items": [
+    {
+      "id": "1a7c731a-724a-4b9a-b1e1-3e4b7b3b4d1b",
+      "name": "Samosa",
+      "price": 30.0,
+      "is_veg": true,
+      "description": "Crispy pastry filled with spiced potatoes and peas, served with chutney.",
+      "image_url": "https://placehold.co/600x400/orange/white?text=Samosa"
+    },
+    {
+      "id": "2b8d842b-835b-5c0b-c2f2-4f5c8c4c5e2c",
+      "name": "Paneer Tikka",
+      "price": 250.5,
+      "is_veg": true,
+      "description": "Cubes of paneer marinated in spices and grilled in a tandoor.",
+      "image_url": "https://placehold.co/600x400/red/white?text=Paneer+Tikka"
+    },
+    {
+      "id": "3c9e953c-946c-6d1c-d3g3-5g6d9d5d6f3d",
+      "name": "Chicken Biryani",
+      "price": 350.0,
+      "is_veg": false,
+      "description": "Aromatic rice dish with tender chicken and a blend of rich spices.",
+      "image_url": "https://placehold.co/600x400/brown/white?text=Chicken+Biryani"
+    },
+    {
+      "id": "4d0f064d-057d-7e2d-e4h4-6h7e0e6e7g4e",
+      "name": "Veg Manchurian",
+      "price": 180.0,
+      "is_veg": true,
+      "description": "Fried vegetable balls in a sweet, sour, and savory Manchurian sauce.",
+      "image_url": "https://placehold.co/600x400/green/white?text=Veg+Manchurian"
+    }
+  ]
+}
