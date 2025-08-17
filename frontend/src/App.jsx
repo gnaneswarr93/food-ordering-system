@@ -1,7 +1,6 @@
 import React from "react";
 import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom";
 import About from "./pages/About.jsx";
-import Contact from "./pages/Contact.jsx";
 import Navbar from "./components/Navbar.jsx"; 
 import Home from "./pages/Home.jsx"; 
 import Food from "./pages/food.jsx"; 
