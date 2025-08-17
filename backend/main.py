@@ -32,7 +32,8 @@ app = FastAPI(
 # This allows  frontend to talk to your backend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"], 
+    allow_origins=["http://localhost:5173",
+                   "https://food-ordering-system-phi.vercel.app"], 
     allow_methods=["*"],
     allow_headers=["*"],
 )
